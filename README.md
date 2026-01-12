@@ -121,7 +121,11 @@
 </div>
 </br>
 
-
+## 서비스 아키텍처
+<div>
+  <img width="1224" height="821" alt="굴안의너굴이서비스아키텍처1" src="https://github.com/user-attachments/assets/53fb617f-f0b1-4b78-938c-fbc163765170" />
+<img width="1104" height="761" alt="굴안의너굴이서비스아키텍처2" src="https://github.com/user-attachments/assets/853de40a-d771-462d-a483-92e1c9f1e536" />
+</div>
 
 ---
 
